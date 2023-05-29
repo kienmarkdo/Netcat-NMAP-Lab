@@ -43,5 +43,6 @@ NOTE: The following instructions were written by me, Kien Do, in May 2023, as a 
   - Click the Kali Linux VM (kali-linux-<Version>-virtualbox-amd64) on the left column -> Settings -> Network -> Attached to: NAT Network -> Name: NatNetwork -> Ok
   - Click the Metasploitable VM on the left column -> Settings -> Network -> Attached to: NAT Network -> Name: NatNetwork - > Ok
   - <img src="https://github.com/kienmarkdo/Netcat-NMAP-Lab/assets/67518620/50f9ac7d-28d2-46e5-92da-45f44d4c910c" width="80%">
+  - _NOTE: If there are network scanning issues, go to the same window as the above, click Advanced -> Promiscuous Mode: Allow All_
 
 <!-- <img src="https://github.com/kienmarkdo/Netcat-NMAP-Lab/assets/67518620/a91570af-9d90-42bc-85fe-290d1207068c" width="500px"> -->
