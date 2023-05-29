@@ -21,5 +21,8 @@ NOTE: The following instructions were written by me, Kien Do, in May 2023, as a 
   - Click Add
   - Select "kali-linux-2023.1-virtualbox-amd64"
   - Double click on the newly added Kali Linux VM on the left column to open it
+  - To resize the window, go to the View tab -> Virtual Screen 1
+  - Username: kali
+  - Password: kali
 
-<img src="https://github.com/kienmarkdo/Netcat-NMAP-Lab/assets/67518620/a91570af-9d90-42bc-85fe-290d1207068c" width="500px">
+<!-- <img src="https://github.com/kienmarkdo/Netcat-NMAP-Lab/assets/67518620/a91570af-9d90-42bc-85fe-290d1207068c" width="500px"> -->
