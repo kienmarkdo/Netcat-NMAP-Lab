@@ -13,9 +13,7 @@ NOTE: The following instructions were written by me, Kien Do, in May 2023, as a 
 - Install Kali Linux VirtualBox image: https://www.kali.org/get-kali/#kali-virtual-machines
   - Download 7-zip: https://www.7-zip.org/
   - Extract the .7z file
-<img src="https://github.com/kienmarkdo/Netcat-NMAP-Lab/assets/67518620/7bd16831-1e26-4bac-9f47-2785c9ab86f9" width="300px">
-<img src="https://github.com/kienmarkdo/Netcat-NMAP-Lab/assets/67518620/133a6f3b-30ca-4f00-93fe-3c58165907d1" width="300px">
-
+  - <img src="https://github.com/kienmarkdo/Netcat-NMAP-Lab/assets/67518620/7bd16831-1e26-4bac-9f47-2785c9ab86f9" width="45%"> <img src="https://github.com/kienmarkdo/Netcat-NMAP-Lab/assets/67518620/133a6f3b-30ca-4f00-93fe-3c58165907d1" width="45%">
 - Install Metasploitable VirtualBox image: https://sourceforge.net/projects/metasploitable/ 
   - Extract the ZIP file
 
@@ -38,8 +36,11 @@ NOTE: The following instructions were written by me, Kien Do, in May 2023, as a 
     - Click Finish
   - Username: msfadmin
   - Password: msfadmin
-<!-- - Additional Configurations
+- Additional Configurations
   - On Oracle VM VirtualBox Manager
-  - File -> Preferences -> Network -->
+    - Tools -> 3 buttons on the right -> Network (see image below) -> NAT Networks -> Create
+    - <img src="https://github.com/kienmarkdo/Netcat-NMAP-Lab/assets/67518620/0b1d2350-0d8f-45c1-adbe-d3bbf03b0f5f" width="80%">
+  - Click the Kali Linux VM (kali-linux-<Version>-virtualbox-amd64) on the left column -> Settings -> Network -> Attached to: NAT Network -> Name: NatNetwork -> Ok
+  - Click the Metasploitable VM on the left column -> Settings -> Network -> Attached to: NAT Network -> Name: NatNetwork - > Ok
 
 <!-- <img src="https://github.com/kienmarkdo/Netcat-NMAP-Lab/assets/67518620/a91570af-9d90-42bc-85fe-290d1207068c" width="500px"> -->
