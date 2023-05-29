@@ -36,6 +36,8 @@ NOTE: The following instructions were written by me, Kien Do, in May 2023, as a 
     - Under Hard Disk, select "Use an Existing Virtual Hard Disk File"
     - Click the folder icon, navigate to your Metasploitable2 folder and select it
     - Click Finish
+  - Username: msfadmin
+  - Password: msfadmin
 <!-- - Additional Configurations
   - On Oracle VM VirtualBox Manager
   - File -> Preferences -> Network -->
