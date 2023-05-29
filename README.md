@@ -40,9 +40,9 @@ NOTE: The following instructions were written by me, Kien Do, in May 2023, as a 
   - On Oracle VM VirtualBox Manager
     - Tools -> 3 buttons on the right -> Network (see image below) -> NAT Networks -> Create
     - <img src="https://github.com/kienmarkdo/Netcat-NMAP-Lab/assets/67518620/0b1d2350-0d8f-45c1-adbe-d3bbf03b0f5f" width="80%">
-  - Click the Kali Linux VM (kali-linux-<Version>-virtualbox-amd64) on the left column -> Settings -> Network -> Attached to: NAT Network -> Name: NatNetwork -> Ok
-  - Click the Metasploitable VM on the left column -> Settings -> Network -> Attached to: NAT Network -> Name: NatNetwork - > Ok
-  - <img src="https://github.com/kienmarkdo/Netcat-NMAP-Lab/assets/67518620/50f9ac7d-28d2-46e5-92da-45f44d4c910c" width="80%">
-  - _NOTE: If there are network scanning issues, go to the same window as the above, click Advanced -> Promiscuous Mode: Allow All_
+  - Click the Kali Linux VM (kali-linux-<Version>-virtualbox-amd64) on the left column -> Settings -> Network -> Attached to: NAT Network -> Name: NatNetwork -> Advanced -> Promiscuous mode: Allow All -> Ok
+  - Do the same thing for the Metasploitable VM
+  - <img src="https://github.com/kienmarkdo/Netcat-NMAP-Lab/assets/67518620/486cb3f8-0166-472e-b14e-9c28b869b103" width="80%">
+
 
 <!-- <img src="https://github.com/kienmarkdo/Netcat-NMAP-Lab/assets/67518620/a91570af-9d90-42bc-85fe-290d1207068c" width="500px"> -->
