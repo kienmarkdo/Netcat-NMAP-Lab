@@ -1,5 +1,7 @@
 # Netcat-NMAP-Lab
-Virtual lab for practicing netcat and NMAP. The followings tools were used.
+Virtual lab for practicing netcat and NMAP in the course "CEG 3585 Communications de données et réseautage" (Data Communications and Networking) for the Summer 2023 academic term with Professor Miguel Garzon. 
+
+The followings tools were used.
 - **Hypervisor:** Oracle Virtual Box
 - **Linux Distribution:** Kali Linux
 - **Vulnerable Machine:** Metasploitable
@@ -34,5 +36,8 @@ NOTE: The following instructions were written by me, Kien Do, in May 2023, as a 
     - Under Hard Disk, select "Use an Existing Virtual Hard Disk File"
     - Click the folder icon, navigate to your Metasploitable2 folder and select it
     - Click Finish
+<!-- - Additional Configurations
+  - On Oracle VM VirtualBox Manager
+  - File -> Preferences -> Network -->
 
 <!-- <img src="https://github.com/kienmarkdo/Netcat-NMAP-Lab/assets/67518620/a91570af-9d90-42bc-85fe-290d1207068c" width="500px"> -->
