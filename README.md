@@ -21,7 +21,7 @@ NOTE: The following instructions were written by me, Kien Do, in May 2023, as a 
   - Click Add
   - Select "kali-linux-2023.1-virtualbox-amd64"
   - Double click on the newly added Kali Linux VM on the left column to open it
-  - To resize the window, go to the View tab -> Virtual Screen 1
+  - To resize the window, go to the View tab -> Auto-resize Guest Display
   - Username: kali
   - Password: kali
 
